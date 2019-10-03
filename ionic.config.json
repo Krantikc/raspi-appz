@@ -1,0 +1,7 @@
+{
+  "name": "raspi-remote",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
